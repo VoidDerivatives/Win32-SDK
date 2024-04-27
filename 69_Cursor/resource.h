@@ -1,0 +1,1 @@
+#define IDC_MYCURSOR	101
